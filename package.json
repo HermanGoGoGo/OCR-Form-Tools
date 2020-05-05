@@ -43,7 +43,7 @@
         "vott-react": "^0.2.12"
     },
     "scripts": {
-        "start": "nf start -p 3000",
+        "start": "react-scripts start",
         "compile": "tsc",
         "build": "react-scripts build",
         "react-start": "react-scripts start",
